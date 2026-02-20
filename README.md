@@ -77,6 +77,8 @@ across different industries.
 - **Job Title Variety:** There's a high diversity
 in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and
 specializations within data analytics.
+
+<img src="/assets/1_top_paying_roles.png" alt="Top Paying Roles" style="width:50%; height: auto;">
      
 ![Top Paying Roles](assets\1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10
@@ -122,6 +124,8 @@ jobs in 2023.
 - **Python** follows closely with a bold count of 6.
 - **Tableau** is also highly sought after, with a bold count of 6. Other skills like **R**,
 **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
+
+ <img src="/assets/2_top_paying_job_skills.png" alt="Top Paying Roles" style="width:50%; height: auto;"> 
 
 ![Top Paying Roles](assets\2_top_paying_job_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; chatGPT generated this graph from my SQL query results.*
